@@ -15,7 +15,7 @@
 
 ## 🚀 技術棧 (Tech Stack)
 
-* **技術顧問**: Gemini
+* **技術顧問**: Gemini 快捷版(不使用Claude跟CLI的原因:第一沒錢以及免費額度太少，第二不使用CLI介入我才能夠練習看懂生成的程式碼並把他們串接)
 * **開發框架**: .NET 8.0 / 9.0 (ASP.NET Core Web API)
 * **資料庫存取**: Entity Framework Core (Code First)
 * **資料庫**: MS SQL Server
