@@ -11,7 +11,7 @@
 
 ## 專案結構
 
-![image](https://github.com/Liang7414/EBookRental-Api/blob/master/Images/FileStruct.png)
+![image](https://github.com/Liang7414/EBookRental/blob/master/Images/FileStruct.png)
 
 ## 🚀 技術棧 (Tech Stack)
 
@@ -46,4 +46,4 @@
 
 ### Swagger UI 預覽
 
-![image](https://github.com/Liang7414/EBookRental-Api/blob/master/Images/Swagger-ui.png)
+![image](https://github.com/Liang7414/EBookRental/blob/master/Images/Swagger-ui.png)
